@@ -23,6 +23,10 @@ border-style: solid;
 border-radius: 3px;
 padding: 4px;
 }
+main{
+    max-width: 800;
+    min-width: 280;
+}
 img{
     text-align: right;
 }
