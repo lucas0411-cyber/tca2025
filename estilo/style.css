@@ -24,8 +24,8 @@ border-radius: 3px;
 padding: 4px;
 }
 main{
-    max-width: 800;
-    min-width: 280;
+    max-width: 800px;
+    min-width: 280px;
 }
 img{
     text-align: right;
