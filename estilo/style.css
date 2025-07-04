@@ -35,14 +35,12 @@ div{
     border: 2px;
     border-style: solid;
     border-radius: 10px;
-    padding: 10px 10px 10px 10px;
-    font: normal ;
-    margin: 13px ;
-    width: 310px;
-     height: 200px;
+    padding: 20px;
+    margin: 13px;
+    height: 200px;
     text-align: center;
     display: inline-block;
-    min-width: 100;
+    min-width: 80px;
 }
 footer{
     background-color: #151112;
