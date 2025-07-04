@@ -42,7 +42,7 @@ div{
      height: 200px;
     text-align: center;
     display: inline-block;
-    min-width: 240;
+    min-width: 240px;
 }
 footer{
     background-color: #151112;
