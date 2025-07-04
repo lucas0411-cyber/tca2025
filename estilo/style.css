@@ -42,13 +42,15 @@ div{
      height: 200px;
     text-align: center;
     display: inline-block;
+    min-width: 280;
 }
 footer{
     background-color: #151112;
     margin: 10px;
-border-width: 3px;
-border-color: white;
-border-style: solid;
-border-radius: 3px;
-padding: 4px;
+    border-width: 3px;
+    border-color: white;
+    border-style: solid;
+    border-radius: 3px;
+    padding: 4px;
+    text-align: center;
 }
